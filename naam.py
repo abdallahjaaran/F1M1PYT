@@ -1,0 +1,1 @@
+Naam = input('Wat is jouw naam?')
